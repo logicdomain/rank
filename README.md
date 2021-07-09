@@ -7,7 +7,7 @@ from logic.rank import Rank
 r = Rank()
 a = [1,2,3] # 已知秩宽
 r.widths = a
-print(a.rank)
+print(a.rank) # 输出秩空间
 ```
 will output:
 ```
